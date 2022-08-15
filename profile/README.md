@@ -1,1 +1,1 @@
-[![This is Copy++, welcome](./wavy-banner.svg)](https://github.com/CopyPlusPlus)
+[![This is Copy++, welcome](https://github.com/CopyPlusPlus/.github/raw/main/profile/wavy-banner.svg)](https://github.com/CopyPlusPlus)
