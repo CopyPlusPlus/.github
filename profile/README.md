@@ -12,4 +12,4 @@ There are two versions of Copy++.
 
 One is based on [WPF/C#](https://github.com/CopyPlusPlus/CopyPlusPlus) and it's the initial and current version.
 
-Another one is based on [Qt/C++](https://github.com/CopyPlusPlus/CopyPlusPlus-Qt). Its biggest advantage is cross-platform. It's still under development and will release soon.
+Another one is based on [Qt/C++](https://github.com/CopyPlusPlus/CopyPlusPlus-Qt). Its biggest advantage is cross-platform. It's still under development and will be released soon.
